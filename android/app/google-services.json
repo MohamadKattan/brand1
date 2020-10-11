@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289127596680",
+    "firebase_url": "https://brand-6af30.firebaseio.com",
+    "project_id": "brand-6af30",
+    "storage_bucket": "brand-6af30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289127596680:android:2a7a913e0735c68d8d553d",
+        "android_client_info": {
+          "package_name": "kattanSoftwear.brand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289127596680-g61rvoirgff8jop0g3o2bm2c57rqpr82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8O_zh5OphRwoavyghUGQSb816BTAxXa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289127596680-g61rvoirgff8jop0g3o2bm2c57rqpr82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
